@@ -3,4 +3,4 @@
 #### 这是一个自动分类器
 #### It's a classifier
 
-$\big{Not complete now}^⚠_❌$
+$\huge{Not complete now}^⚠_❌$
