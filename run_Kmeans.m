@@ -9,7 +9,7 @@ function [centroids, idx] = run_Kmeans(X, inital_centroids, max_iteration, progr
   idx = zeros(m, 1);
   
   for i = 1:max_iteration
-    fprintf('Kmeans running in %dth loop(max loop %d)', i, max_iteration);
+    fprintf('Kmeans running in %dth loop(max loop %d)\n', i, max_iteration);
     if exist('OCTAVE_VERSION')
       fflush(stdout);
     endif
