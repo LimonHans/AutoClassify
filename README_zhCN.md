@@ -1,73 +1,73 @@
-English [简体中文](README_zhCN.md)
+[English](README.md) 简体中文
 
-# AutoClassifier
-> It's a automatic classifier.
+# 自动分类器
+> 这是一个自动分类器
 
 <!--[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]-->
 
-It's a automatic classifier.
+这是一个自动分类器
 
-Not complete now⚠❌
+尚未完成————现在:核心
 
 <!--![](header.png)-->
 
-## Installation
+## 安装
 
 OS X & Linux:
 
-Not yet
+尚未完成
 
 ```sh
-Not yet
+尚未完成
 ```
 
 Windows:
 
-Not yet
+尚未完成
 
 ```sh
-Not yet
+尚未完成
 ```
 
-## Usage example
+## 使用示例
 <!--A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.-->
 
-Not yet
+尚未完成
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_要得到更多使用示例和使用方法，请转到 [Wiki][wiki]._
 
-## Development setup
+## 开发者设置
 <!--Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.-->
-Not yet
+尚未完成
 ```sh
-Not yet
+尚未完成
 ```
 
-## Release History
+## 发布日志
 
 * 0.0.1
-    * Work in progress
-	* Mainly update README
+    * 致力于完成项目
+	* 主要更新了README
 
-## Meta
+## 附加元数据
 
 HansLimon – [@HansLimon](https://twitter.com/HansLimon) – hslimonffs@outlook.com
 
 dixiatielu - [@DXTL_Subway](https://twitter.com/DXTL_Subway) - dxtl666@foxmail.com
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+根据MIT许可证分发。 有关更多信息，请参见``许可证``。
 
 [https://github.com/LimonHans/AutoClassify](https://github.com/LimonHans/)
 
-## Contributing
+## 贡献
 
-1. Fork it (<https://github.com/LimonHans/AutoClassify/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Fork此仓库 (<https://github.com/LimonHans/AutoClassify/fork>)
+2. 创建功能分支 (`git checkout -b feature/fooBar`)
+3. 提交您的更改 (`git commit -am 'Add some fooBar'`)
+4. 推送到分支 (`git push origin feature/fooBar`)
+5. 创建一个新的Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
