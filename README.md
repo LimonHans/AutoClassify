@@ -3,6 +3,8 @@ English [简体中文](README_zhCN.md)
 # AutoClassifier
 > It's a automatic classifier.
 
+> Password:UzgF56a
+
 <!--[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]-->
