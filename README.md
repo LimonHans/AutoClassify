@@ -1,5 +1,7 @@
 # AutoClassify
 
+密码：UzgF56a
+
 #### 这是一个自动分类器
 #### It's a classifier
 
