@@ -1,7 +1,7 @@
 English [简体中文](README_zhCN.md)
 
 # AutoClassifier
-> It's a automatic classifier.
+> It's an automatic classifier.
 
 > Password:UzgF56a
 
@@ -9,7 +9,7 @@ English [简体中文](README_zhCN.md)
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]-->
 
-It's a automatic classifier.
+It's an automatic classifier.
 
 Not complete now⚠❌
 
