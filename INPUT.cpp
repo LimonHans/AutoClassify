@@ -18,7 +18,7 @@ int main()
 	std::cout.rdbuf(outX.rdbuf());
 	while(std::cin >> data1 >> data2)
 	{
-		std::cout << data1 << data2 << std::endl;
+		std::cout << data1 << ", " << data2 << std::endl;
 	}
 	return 0;
 }
