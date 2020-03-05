@@ -1,5 +1,5 @@
 fprintf('K-Means is working.\n');
-load('test_exp.mat');
+X = load('test.txt');
 
 K = 3;
 max_iteration = 20;
