@@ -11,8 +11,6 @@
 
 这是一个自动分类器
 
-尚未完成————现在:核心
-
 <!--![](header.png)-->
 
 ## 安装
@@ -55,7 +53,7 @@ _要得到更多使用示例和使用方法，请转到 [Wiki][wiki]._
 
 ## 附加元数据
 
-HansLimon – [@HansLimon](https://twitter.com/HansLimon) – hslimonffs@outlook.com
+HansLimon – [@HansLimon](https://twitter.com/Ractdor_Limon) – hslimonffs@outlook.com
 
 dixiatielu - [@DXTL_Subway](https://twitter.com/DXTL_Subway) - dxtl666@foxmail.com
 

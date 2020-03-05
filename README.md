@@ -11,8 +11,6 @@ English [简体中文](README_zhCN.md)
 
 It's an automatic classifier.
 
-Not complete now⚠❌
-
 <!--![](header.png)-->
 
 ## Installation
@@ -55,7 +53,7 @@ Not yet
 
 ## Meta
 
-HansLimon – [@HansLimon](https://twitter.com/HansLimon) – hslimonffs@outlook.com
+HansLimon – [@HansLimon](https://twitter.com/Ractdor_Limon) – hslimonffs@outlook.com
 
 dixiatielu - [@DXTL_Subway](https://twitter.com/DXTL_Subway) - dxtl666@foxmail.com
 
