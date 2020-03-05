@@ -1,4 +1,8 @@
 function [centroids, idx] = run_Kmeans(X, inital_centroids, max_iteration, progress_plot)
+##  if ~exist('progress_plot', 'var') || isempty(progress_plot)
+##    progress_plot = false;
+##  endif
+  
   figure;
   hold on;
   
